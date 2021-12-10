@@ -19,13 +19,16 @@ Contents
 --------
 
 .. toctree::
-
+   :maxdepth: 2
    :caption: 第一个:
    usage
    api
    
-.. toctree::
+Contents
+--------
 
+.. toctree::
+   :maxdepth: 2
    :caption: 第二个:
    测试
    这是标题？
