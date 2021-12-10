@@ -15,20 +15,18 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-Contents
---------
+.. Hidden TOCs
 
 .. toctree::
    :maxdepth: 2
-   :caption: 第一个:
+   :caption: 第一个
+   :hidden:
    usage
    api
-   
-Contents
---------
 
 .. toctree::
    :maxdepth: 2
-   :caption: 第二个:
+   :caption: 第二个
+   :hidden:
    测试
    这是标题？
